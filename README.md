@@ -14,7 +14,10 @@ the file upload; in addition to the chunking, you can tell Plupload to retry fai
 uploads a given number of times. This way, if there is a momentary network problem, 
 Plupload may still successfully upload the chunk, and eventually, the entire file.
 
+__[View blog post about this project][blogpost]__ on my blog.
+
 
 [bennadel]: http://www.bennadel.com
 [googleplus]: https://plus.google.com/108976367067760160494?rel=author
 [plupload]: http://plupload.com
+[blogpost]: http://www.bennadel.com/blog/2585-Chunking-File-Uploads-With-Plupload-And-ColdFusion.htm
